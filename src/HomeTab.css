@@ -1,0 +1,17 @@
+.container {
+   padding:25px;
+   }
+   
+    .image {
+     float:left;
+     width:40%;
+     height:40%;
+   }
+   
+   .text {
+     float: left;
+     width: 40%;
+     hight: 40%;
+     padding : 25px;
+   }
+   
